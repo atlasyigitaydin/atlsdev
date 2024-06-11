@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yiğit Aydın</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [atlsdev.github.io](atlsdev.github.io)
+- 👨‍💻 All of my projects are available at [AtlsDev.github.io](AtlsDev.github.io)
 
 - 📫 How to reach me **atlasyigitaydin@gmail.com**
 
