@@ -4,8 +4,8 @@
 - 👨‍💻 Portfolio [AtlsDev.github.io](https://atlsdev.github.io/)
 
 - ✉️ E-Mail **atlasyigitaydin@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fitayd%C4%B1n/) 
+  
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -18,6 +18,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yiğitaydın) 
 
 <!-- 
 # 📊 GitHub Stats:
