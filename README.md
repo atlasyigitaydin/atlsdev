@@ -5,7 +5,7 @@
 
 - ✉️ E-Mail **atlasyigitaydin@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yiğit AYDIN ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fitayd%C4%B1n/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
