@@ -19,11 +19,11 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 
-
+<!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlsDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AtlsDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=AtlsDev&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=AtlsDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=AtlsDev&theme=dark&hide_border=false) -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=AtlsDev&icon=0&color=1)](https://visitcount.itsvg.in) -->
