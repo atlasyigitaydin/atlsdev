@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [AtlsDev.github.io](AtlsDev.github.io)
 
-- 📫 How to reach me **atlasyigitaydin@gmail.com**
+- ✉️ How to reach me **atlasyigitaydin@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
