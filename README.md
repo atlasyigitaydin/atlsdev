@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit Aydın</h1>
+<h1 align="center">Hi 👋, I'm Atlas Yiğit Aydın</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 👨‍💻 Portfolio [AtlsDev.github.io](https://atlsdev.github.io/)
