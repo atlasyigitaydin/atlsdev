@@ -5,7 +5,7 @@ Frontend Developer
 ---
 
 - 🌍 Based in Turkey
-- 👨‍💻 Check out my [Portfolio](https://atlsdev.github.io/)
+- 👨‍💻 Check out my [Portfolio](https://atlasyiğitaydın.com/)
 - ✉️ Contact me at [atlasyigitaydin@gmail.com](mailto:atlasyigitaydin@gmail.com)
 
 Skills
